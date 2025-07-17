@@ -22,7 +22,7 @@
 - Tested executable and read-only settings.
 
 ### ✔️ Process and Network Monitoring
-- Used `ps aux` / `top`, `htop` to list all processes.
+- Used `ps aux` / `top` / `htop` to list all processes.
 - Ran `netstat -tuln` to view open ports and active connections.
 
 ### ✔️ Basic Firewall Rules
